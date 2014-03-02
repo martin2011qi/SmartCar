@@ -1,4 +1,4 @@
 SmartCar
 ========
 
-SmartCarRace
+SmartCar
